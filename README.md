@@ -1,2 +1,1 @@
-# curso-henry
-este es un repo de prueba del curso de henry
+esto es una prueba de como crear un repo y clonarlo desde github a mi compu
